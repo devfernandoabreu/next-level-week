@@ -43,7 +43,7 @@ class PointsController {
             email,
             whatsapp,
             latitude,
-            longetude,
+            longitude,
             city,
             uf,
             items
@@ -57,7 +57,7 @@ class PointsController {
             email,
             whatsapp,
             latitude,
-            longetude,
+            longitude,
             city,
             uf
         };
